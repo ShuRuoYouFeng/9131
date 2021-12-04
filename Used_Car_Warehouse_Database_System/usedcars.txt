@@ -1,0 +1,7 @@
+1YX98J,2014,Black,White,,Toyota,RAV4,25000
+ABC132,2007,Yellow,,,Toyota,Corolla,5900
+MARY21,2017,Dark Grey,Blue,Red,BMW,X5,25132
+90210,2012,Blue,Light Green,,Honda,Civic,2000
+150363,2020,red,aqua,,Toyota,Prius,1500
+111111,2020,RED,,,Honda,Odyssey,2020
+15AD,2021,red,,,Honda,Odyssey,1503
